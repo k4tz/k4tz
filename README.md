@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @k4tz
 - 👀 I’m interested in Coding,Gaming
-- 🌱 I’m currently learning Full stack development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working as a laravel backend dev 
+- 💞️ Always looking to learn mor!
 - 📫 How to reach me - manjeetvatscreator@gmail.com
 
 <!---
