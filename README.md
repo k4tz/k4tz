@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👀 I’m passionate about coding, backend development, and Generative AI (GenAI), with a strong curiosity for all things tech and gaming.<br>🤝 I love collaborating on innovative projects and am always eager to explore new technologies and best practices.<br>💬 Let’s connect and build something amazing together!<br>📫 Reach me at manjeetvatscreator@gmail.com</p>
+<p align="left">👀 I’m passionate about coding, backend development, and Generative AI (GenAI), with a strong curiosity for all things tech and gaming.<br>🤝 I love collaborating on innovative projects and am always eager to explore new technologies and best practices.<br>💬 Let’s connect and build something amazing together!<br>📫 Reach me at <a href="mailto:manjeetvatscreator@gmail.com">manjeetvatscreator@gmail.com</a></p>
 
 ###
 
