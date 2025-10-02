@@ -1,5 +1,7 @@
 <h1 align="left">Hey there! 👋</h1>
+
 ###
+
 <p align="left">I'm Manjeet Kumar, a software engineer who loves building scalable backend systems and real-time applications. With 2+ years of experience, I focus on crafting robust APIs, optimizing system performance, and delivering quality solutions in agile teams. Currently diving deep into real-time communication protocols and system architecture.</p>
 
 ###
