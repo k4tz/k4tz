@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Manjeet Kumar, a software engineer who loves building scalable backend systems and real-time applications. With 2+ years of experience, I focus on crafting robust APIs, optimizing system performance, and delivering quality solutions in agile teams. Currently diving deep into real-time communication protocols and system architecture.</p>
+<p align="left">I'm Manjeet Kumar, a software engineer who loves building scalable systems and intuitive user experiences. With 2+ years of experience, I specialize in full-stack development—from robust backend APIs and real-time communication features to responsive frontend interfaces and system architecture. I deliver quality solutions in agile teams, optimizing performance across the entire stack. Currently diving deep into Generative AI and its practical applications.</p>
 
 ###
 
